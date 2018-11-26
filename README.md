@@ -15,6 +15,8 @@ Organzation: IPCHILE
 Programación de aplicaciones móviles II.
 
 
+Trello: https://trello.com/b/SmAJtNV2/cronograma-tupack
+
 
 
 
